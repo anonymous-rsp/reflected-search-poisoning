@@ -1,7 +1,7 @@
 # Reflected Search Poisoning for Illicit Promotion
 
  [![Website](https://img.shields.io/badge/Website-here-brightgreen?logo=googlechrome&logoColor=%23000000&labelColor=%23eeeeee
-)](https://anonymous-rsp.github.io/reflected-search-poisoning/)
+)](https://anonymous-rsp.github.io/)
 
 ## Data
 
